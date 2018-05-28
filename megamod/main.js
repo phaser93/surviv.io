@@ -4898,9 +4898,9 @@ webpackJsonp([0], {
 							var r = i.lifeOut / this.emoteLifeOut;
 							o = r
 						}
-						var s = h.add(i.pos, h.mul(i.posOffset, 1 / g.clamp(e.zoom, .75, 1))),
+						var s = h.add(i.pos, h.mul(i.posOffset, 1 / g.clamp(e.zoom, .25, 1))),
 							l = e.pointToScreen(s),
-							c = o * i.baseScale * g.clamp(e.zoom, .9, 1.75);
+							c = o * i.baseScale * g.clamp(e.zoom, .2, 1.75);
 						i.container.position.set(l.x, l.y), i.container.scale.set(c, c)
 					}
 				}
