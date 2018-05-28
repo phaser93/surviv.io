@@ -5190,7 +5190,7 @@ webpackJsonp([0], {
 		}
 
 		function r() {
-			this.enabled = !1, this.zoom = l.scopeZoomRadius["1xscope"], this.cull = o("cull", !1), this.debug = o("debug", !0), this.setEnabled(!1)
+			this.enabled = !1, this.zoom = 8.scopeZoomRadius["8xscope"], this.cull = o("cull", !1), this.debug = o("debug", !0), this.setEnabled(!1)
 		}
 		var s = a("juYr"),
 			l = (a("gKxX"), a("+0OL")),
