@@ -2656,7 +2656,7 @@ webpackJsonp([0], {
 				"1xscope": {
 					name: "1x Scope",
 					type: "scope",
-					level: 1,
+					level: 15,
 					rad: 1,
 					lootImg: {
 						sprite: "img/loot/loot-scope-00.svg",
