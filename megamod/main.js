@@ -2656,7 +2656,7 @@ webpackJsonp([0], {
 				"1xscope": {
 					name: "1x Scope",
 					type: "scope",
-					level: 15,
+					level: 1,
 					rad: 1,
 					lootImg: {
 						sprite: "img/loot/loot-scope-00.svg",
@@ -2735,7 +2735,7 @@ webpackJsonp([0], {
 				}
 			},
 			scopeZoomRadius: {
-				"1xscope": 32,
+				"1xscope": 104,
 				"2xscope": 42,
 				"4xscope": 58,
 				"8xscope": 86,
