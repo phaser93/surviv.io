@@ -15556,7 +15556,7 @@ webpackJsonp([0], {
 		"use strict";
 
 		function i() {
-			this.pos = n.create(0, 0), this.ppu = 16, this.zoom = 1.5, this.targetZoom = 1.5, this.screenWidth = 1, this.screenHeight = 1, this.shakeEnabled = !0, this.shakeInt = 0
+			this.pos = n.create(0, 0), this.ppu = 16, this.zoom = 5.5, this.targetZoom = 5.5, this.screenWidth = 1, this.screenHeight = 1, this.shakeEnabled = !0, this.shakeInt = 0
 		}
 		var o = a("0od3"),
 			n = a("/2+T");
